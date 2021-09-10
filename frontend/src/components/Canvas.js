@@ -197,37 +197,6 @@ class Canvas extends Component {
                         </Button>
                     </ButtonGroup>
 
-                    {/* <div style={{ display: 'flex', alignItems: 'center ' }}>
-                        <IconButton
-                            style={{ marginRight: '14px', backgroundColor: 'white' }}
-                            onClick={() => this.updateBrushSize(10)}
-                            children={
-                                < div style={{ width: '10px', height: '10px', borderRadius: '50%', backgroundColor: 'black' }} />
-                            }
-                        />
-                        <IconButton
-                            style={{ marginRight: '14px', backgroundColor: 'white' }}
-                            onClick={() => this.updateBrushSize(20)}
-                            children={
-                                <div style={{ width: '20px', height: '20px', borderRadius: '50%', backgroundColor: 'black' }} />
-                            }
-                        />
-                        <IconButton
-                            style={{ marginRight: '14px', backgroundColor: 'white' }}
-                            onClick={() => this.updateBrushSize(40)}
-                            children={
-                                <div style={{ width: '30px', height: '30px', borderRadius: '50%', backgroundColor: 'black' }} />
-                            }
-                        />
-                        <IconButton
-                            style={{ marginRight: '14px', backgroundColor: 'white' }}
-                            onClick={() => this.updateBrushSize(60)}
-                            children={
-                                <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: 'black' }} />
-                            }
-                        />
-                    </div> */}
-
                     <IconButton
                         style={{ backgroundColor: 'white' }}
                         color='inherit'
